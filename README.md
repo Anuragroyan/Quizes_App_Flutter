@@ -1,5 +1,9 @@
-# 🧠 Quiz App is a Flutter application that provides an interactive quiz experience with multiple-choice questions and answer options. It allows users to answer questions, track their progress, and view their results through a simple and engaging interface.
+# 🧠 Quiz App 
+
+# Quiz App is a Flutter application that provides an interactive quiz experience with multiple-choice questions and answer options. It allows users to answer questions, track their progress, and view their results through a simple and engaging interface.
+
 # ScreenShots
+
 ![Screenshot_20240908-015416](https://github.com/user-attachments/assets/b2c09c44-070c-4b84-acff-5b0d7a368235)
 ![Screenshot_20240908-015616](https://github.com/user-attachments/assets/4db4b52c-e655-4d83-b81b-e8ead4ebca49)
 ![Screenshot_20240908-015611](https://github.com/user-attachments/assets/bd94ebfc-11a7-4602-9a50-eb94b19af64b)
